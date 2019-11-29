@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a4af4a39-4135-47fb-b175-47fbdf85311d",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Web Application should only be accessible over HTTPS"
+      },
+      "kind": "policyAssignment"
+    }

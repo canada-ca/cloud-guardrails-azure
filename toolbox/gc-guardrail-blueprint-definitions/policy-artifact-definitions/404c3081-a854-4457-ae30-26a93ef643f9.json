@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/404c3081-a854-4457-ae30-26a93ef643f9",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Secure transfer to storage accounts should be enabled"
+      },
+      "kind": "policyAssignment"
+    }

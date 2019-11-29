@@ -1,0 +1,13 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f47b5582-33ec-4c5c-87c0-b010a6b2e917",
+        "parameters": {
+            "logAnalyticsWorkspaceId": {
+                "value": "[parameters('logAnalyticsWorkspaceIdforVMReporting')]"
+            }
+        },
+        "dependsOn": [],
+        "displayName": "[Preview]: Audit Log Analytics Workspace for VM - Report Mismatch"
+      },
+      "kind": "policyAssignment"
+    }

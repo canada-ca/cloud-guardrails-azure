@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b2fc8f91-866d-4434-9089-5ebfe38d6fd8",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Deploy prerequisites to audit Windows web servers that are not using secure communication protocols"
+      },
+      "kind": "policyAssignment"
+    }

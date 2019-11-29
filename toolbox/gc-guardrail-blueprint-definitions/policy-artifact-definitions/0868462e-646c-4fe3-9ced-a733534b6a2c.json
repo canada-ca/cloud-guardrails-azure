@@ -1,0 +1,16 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0868462e-646c-4fe3-9ced-a733534b6a2c",
+        "parameters": {
+          "logAnalytics": {
+            "value": "[parameters('logAnalyticsWorkspaceforWindowsVMs')]"
+          },
+          "listOfImageIdToInclude": {
+            "value": "[parameters('listOfImageIdToIncludeforWindowsVMs')]"
+          }
+        },
+        "dependsOn": [],
+        "displayName": "[Preview]: Deploy Log Analytics Agent for Windows VMs"
+      },
+      "kind": "policyAssignment"
+    }

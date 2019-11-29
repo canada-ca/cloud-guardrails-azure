@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/17k78e20-9358-41c9-923c-fb736d382a12",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Transparent Data Encryption on SQL databases should be enabled"
+      },
+      "kind": "policyAssignment"
+    }

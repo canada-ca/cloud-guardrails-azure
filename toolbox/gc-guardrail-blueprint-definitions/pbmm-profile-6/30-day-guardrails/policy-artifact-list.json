@@ -1,0 +1,188 @@
+{
+  "policyDefinitions": [
+    {
+      "policyDisplayName": "Deploy Diagnostic Settings for Network Security Groups",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c9c29499-c1d1-4195-99bd-2ec9e3a9dc89"
+    },
+    {
+      "policyDisplayName": "Deploy Threat Detection on SQL servers",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/36d49e87-48c4-4f2e-beed-ba4ed02b71f5"
+    },
+    {
+      "policyDisplayName": "[Preview]: Deploy Log Analytics Agent for Linux VMs",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/053d3325-282c-4e5c-b944-24faffd30d77"
+    },
+    {
+      "policyDisplayName": "Require encryption on Data Lake Store accounts",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a7ff3161-0087-490a-9ad9-ad6217f4f43a"
+    },
+    {
+      "policyDisplayName": "Allowed locations",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e56962a6-4747-49cd-b67b-bf8b01975c4c"
+    },
+    {
+      "policyDisplayName": "Deploy network watcher when virtual networks are created",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a9b99dd8-06c5-4317-8629-9d86a3c6e7d9"
+    },
+    {
+      "policyDisplayName": "Deploy SQL DB transparent data encryption",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/86a912f6-9a06-4e26-b447-11b16ba8659f"
+    },
+    {
+      "policyDisplayName": "Allowed locations for resource groups",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e765b5de-1225-4ba3-bd56-1ac6695af988"
+    },
+    {
+      "policyDisplayName": "Deploy Auditing on SQL servers",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f4c68484-132f-41f9-9b6d-3e4b1cb55036"
+    },
+    {
+      "policyDisplayName": "[Preview]: Deploy Log Analytics Agent for Windows VMs",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0868462e-646c-4fe3-9ced-a733534b6a2c"
+    },
+    {
+      "policyDisplayName": "Require automatic OS image patching on Virtual Machine Scale Sets",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/465f0161-0087-490a-9ad9-ad6217f4f43a"
+    },
+    {
+      "policyDisplayName": "Network interfaces should not have public IPs",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/83a86a26-fd1f-447c-b59d-e51f44264114"
+    },
+    {
+      "policyDisplayName": "MFA should be enabled on accounts with owner permissions on your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/aa633080-8b72-40c4-a2d7-d00c03e80bed"
+    },
+    {
+      "policyDisplayName": "MFA should be enabled accounts with write permissions on your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9297c21d-2ed6-4474-b48f-163f75654ce3"
+    },
+    {
+      "policyDisplayName": "Deprecated accounts should be removed from your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6b1cbf55-e8b6-442f-ba4c-7246b6381474"
+    },
+     {
+      "policyDisplayName": "Deprecated accounts with owner permissions should be removed from your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ebb62a0c-3560-49e1-89ed-27e074e9f8ad"
+    },
+    {
+      "policyDisplayName": "External accounts with owner permissions should be removed from your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f8456c1c-aa66-4dfb-861a-25d127b775c9"
+    },
+    {
+      "policyDisplayName": "External accounts with read permissions should be removed from your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5f76cf89-fbf2-47fd-a3f4-b891fa780b60"
+    },
+    {
+      "policyDisplayName": "External accounts with write permissions should be removed from your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5c607a2e-c700-4744-8254-d77e7c9eb5e4"
+    },
+    {
+      "policyDisplayName": "Function App should only be accessible over HTTPS",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6d555dd1-86f2-4f1c-8ed7-5abae7c6cbab"
+    },
+    {
+      "policyDisplayName": "Web Application should only be accessible over HTTPS",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a4af4a39-4135-47fb-b175-47fbdf85311d"
+    },
+    {
+      "policyDisplayName": "API App should only be accessible over HTTPS",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b7ddfbdc-1260-477d-91fd-98bd9be789a6"
+    },
+    {
+      "policyDisplayName": "[Preview]: Audit Log Analytics Agent Deployment - VM Image (OS) unlisted",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/32133ab0-ee4b-4b44-98d6-042180979d50"
+    },
+    {
+      "policyDisplayName": "[Preview]: Audit Log Analytics Agent Deployment in VMSS - VM Image (OS) unlisted",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5c3bc7b8-a64c-4e08-a9cd-7ff0f31e1138"
+    },
+    {
+      "policyDisplayName": "[Preview]: Audit Log Analytics Workspace for VM - Report Mismatch",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/f47b5582-33ec-4c5c-87c0-b010a6b2e917"
+    },
+    {
+      "policyDisplayName": "A maximum of 3 owners should be designated for your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4f11b553-d42e-4e3a-89be-32ca364cad4c"
+    },
+    {
+      "policyDisplayName": "There should be more than one owner assigned to your subscription",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/09024ccc-0c5f-475e-9457-b7c0d9ed487b"
+    },
+    {
+      "policyDisplayName": "Remote debugging should be turned off for Function Apps",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/0e60b895-3786-45da-8377-9c6b4b6ac5f9"
+    },
+    {
+      "policyDisplayName": "Remote debugging should be turned off for Web Applications",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/cb510bfd-1cba-4d9f-a230-cb0976f4bb71"
+    },
+    {
+      "policyDisplayName": "Remote debugging should be turned off for API Apps",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e9c8d085-d9cc-4b17-9cdc-059f1f01f19e"
+    },
+    {
+      "policyDisplayName": "Endpoint protection solution should be installed on virtual machine scale sets",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/26a828e1-e88f-464e-bbb3-c134a282b9de"
+    },
+    {
+      "policyDisplayName": "Audit diagnostic setting",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7f89b1eb-583c-429a-8828-af049802c1d9"
+    },
+    {
+      "policyDisplayName": "Only secure connections to your Redis Cache should be enabled",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/22bee202-a82f-4305-9a2a-6d7f44d4dedb"
+    },
+    {
+      "policyDisplayName": "An Azure Active Directory administrator should be provisioned for SQL servers",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1f314764-cb73-4fc9-b863-8eca98ac36e9"
+    },
+    {
+      "policyDisplayName": "Secure transfer to storage accounts should be enabled",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/404c3081-a854-4457-ae30-26a93ef643f9"
+    },
+    {
+      "policyDisplayName": "Show audit results from Windows web servers that are not using secure communication protocols",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/60ffe3e2-4604-4460-8f22-0f1da058266c"
+    },
+    {
+      "policyDisplayName": "Transparent Data Encryption on SQL databases should be enabled",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/17k78e20-9358-41c9-923c-fb736d382a12"
+    },
+    {
+      "policyDisplayName": "Audit unrestricted network access to storage accounts",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/34c877ad-507e-4c82-993e-3452a6e0ad3c"
+    },
+    {
+      "policyDisplayName": "Service Fabric clusters should only use Azure Active Directory for client authentication",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b54ed75b-3e1a-44ac-a333-05ba39b99ff0"
+    },
+    {
+      "policyDisplayName": "Deploy prerequisites to audit Windows web servers that are not using secure communication protocols",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b2fc8f91-866d-4434-9089-5ebfe38d6fd8"
+    },
+    {
+      "policyDisplayName": "Secure transfer to storage accounts should be enabled",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/404c3081-a854-4457-ae30-26a93ef643f9"
+    },
+    {
+      "policyDisplayName": "Email notifications to admins and subscription owners should be enabled in SQL server advanced data security settings",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/c8343d2f-fdc9-4a97-b76f-fc71d1163bfc"
+    },
+    {
+      "policyDisplayName": "Advanced data security settings for SQL managed instance should contain an email address to receive security alerts",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3965c43d-b5f4-482e-b74a-d89ee0e0b3a8"
+    },
+    {
+      "policyDisplayName": "Email notifications to admins and subscription owners should be enabled in SQL managed instance advanced data security settings",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/aeb23562-188d-47cb-80b8-551f16ef9fff"
+    },
+    {
+      "policyDisplayName": "Advanced data security settings for SQL server should contain an email address to receive security alerts",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9677b740-f641-4f3c-b9c5-466005c85278"
+    },
+    {
+      "policyDisplayName": "Activity log should be retained for at least one year",
+      "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b02aacc0-b073-424e-8298-42b22829ee0a"
+    }                                
+  ]
+}

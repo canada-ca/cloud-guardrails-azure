@@ -1,0 +1,16 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/32133ab0-ee4b-4b44-98d6-042180979d50",
+        "parameters": {
+          "listOfImageIdToInclude_windows": {
+            "value": "[parameters('listOfImageIdToIncludeforWindowsVMs')]"
+          },
+          "listOfImageIdToInclude_linux": {
+            "value": "[parameters('listOfImageIdToIncludeforLinuxVMs')]"
+          }          
+        },
+        "dependsOn": [],
+        "displayName": "[Preview]: Audit Log Analytics Agent Deployment - VM Image (OS) unlisted"
+      },
+      "kind": "policyAssignment"
+    }

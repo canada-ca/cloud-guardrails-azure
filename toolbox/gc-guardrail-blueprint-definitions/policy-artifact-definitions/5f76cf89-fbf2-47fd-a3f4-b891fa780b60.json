@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5f76cf89-fbf2-47fd-a3f4-b891fa780b60",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "External accounts with read permissions should be removed from your subscription"
+      },
+      "kind": "policyAssignment"
+    }

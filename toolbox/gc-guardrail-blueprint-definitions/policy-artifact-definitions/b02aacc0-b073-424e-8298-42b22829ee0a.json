@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b02aacc0-b073-424e-8298-42b22829ee0a",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Activity log should be retained for at least one year"
+      },
+      "kind": "policyAssignment"
+    }

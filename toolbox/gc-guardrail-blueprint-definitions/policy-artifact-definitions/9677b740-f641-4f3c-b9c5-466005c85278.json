@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/9677b740-f641-4f3c-b9c5-466005c85278",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Advanced data security settings for SQL server should contain an email address to receive security alerts"
+      },
+      "kind": "policyAssignment"
+    }

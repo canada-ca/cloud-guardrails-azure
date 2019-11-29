@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/a9b99dd8-06c5-4317-8629-9d86a3c6e7d9",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Deploy network watcher when virtual networks are created"
+      },
+      "kind": "policyAssignment"
+    }

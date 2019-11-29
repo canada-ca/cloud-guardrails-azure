@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6d555dd1-86f2-4f1c-8ed7-5abae7c6cbab",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Function App should only be accessible over HTTPS"
+      },
+      "kind": "policyAssignment"
+    }

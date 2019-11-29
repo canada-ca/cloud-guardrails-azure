@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/cb510bfd-1cba-4d9f-a230-cb0976f4bb71",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Remote debugging should be turned off for Web Applications"
+      },
+      "kind": "policyAssignment"
+    }
