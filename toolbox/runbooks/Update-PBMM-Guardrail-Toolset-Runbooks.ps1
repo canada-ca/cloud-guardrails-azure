@@ -14,7 +14,7 @@ $ErrorActionPreference = "Stop"
 # ----------------------- Configurable settings end ------------------------------
 
 $tempFilePath = $env:TEMP
-$blueprintDefinitionsPathPrefix = "testtbsrepo-master\test"
+$blueprintDefinitionsPathPrefix = "cloud-guardrails-azure-master\toolbox"
 $policyDefinitionsZippedPath = "$tempFilePath\PBMMComplianceVerification.zip"
 $policyDefinitionsUnzippedPath = "$tempFilePath\PBMM-Compliance-Verification"
 $repoUrl = "https://github.com/tacummins1/testtbsrepo/archive/master.zip"
