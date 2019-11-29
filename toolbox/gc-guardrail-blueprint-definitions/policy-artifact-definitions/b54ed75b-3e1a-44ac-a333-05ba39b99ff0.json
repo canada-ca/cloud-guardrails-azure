@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/b54ed75b-3e1a-44ac-a333-05ba39b99ff0",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Service Fabric clusters should only use Azure Active Directory for client authentication"
+      },
+      "kind": "policyAssignment"
+    }

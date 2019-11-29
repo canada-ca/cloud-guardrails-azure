@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/1f314764-cb73-4fc9-b863-8eca98ac36e9",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "An Azure Active Directory administrator should be provisioned for SQL servers"
+      },
+      "kind": "policyAssignment"
+    }

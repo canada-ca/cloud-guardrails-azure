@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/465f0161-0087-490a-9ad9-ad6217f4f43a",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Require automatic OS image patching on Virtual Machine Scale Sets"
+      },
+      "kind": "policyAssignment"
+    }

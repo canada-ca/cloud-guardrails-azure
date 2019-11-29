@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/3965c43d-b5f4-482e-b74a-d89ee0e0b3a8",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Advanced data security settings for SQL managed instance should contain an email address to receive security alerts"
+      },
+      "kind": "policyAssignment"
+    }

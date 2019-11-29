@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/09024ccc-0c5f-475e-9457-b7c0d9ed487b",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "There should be more than one owner assigned to your subscription"
+      },
+      "kind": "policyAssignment"
+    }

@@ -1,0 +1,9 @@
+{
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/6134c3db-786f-471e-87bc-8f479dc890f6",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Deploy Advanced Data Security on SQL servers"
+      },
+      "kind": "policyAssignment"
+    }

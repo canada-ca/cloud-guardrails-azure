@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/ebb62a0c-3560-49e1-89ed-27e074e9f8ad",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Deprecated accounts with owner permissions should be removed from your subscription"
+      },
+      "kind": "policyAssignment"
+    }

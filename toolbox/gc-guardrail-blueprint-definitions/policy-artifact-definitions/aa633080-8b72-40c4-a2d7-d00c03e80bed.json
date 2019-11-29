@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/aa633080-8b72-40c4-a2d7-d00c03e80bed",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "MFA should be enabled on accounts with owner permissions on your subscription"
+      },
+      "kind": "policyAssignment"
+    }

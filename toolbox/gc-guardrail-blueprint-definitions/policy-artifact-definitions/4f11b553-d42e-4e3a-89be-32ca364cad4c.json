@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/4f11b553-d42e-4e3a-89be-32ca364cad4c",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "A maximum of 3 owners should be designated for your subscription"
+      },
+      "kind": "policyAssignment"
+    }

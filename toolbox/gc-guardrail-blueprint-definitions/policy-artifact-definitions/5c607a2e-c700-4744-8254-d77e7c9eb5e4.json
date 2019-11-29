@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/5c607a2e-c700-4744-8254-d77e7c9eb5e4",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "External accounts with write permissions should be removed from your subscription"
+      },
+      "kind": "policyAssignment"
+    }

@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/aeb23562-188d-47cb-80b8-551f16ef9fff",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Email notifications to admins and subscription owners should be enabled in SQL managed instance advanced data security settings"
+      },
+      "kind": "policyAssignment"
+    }

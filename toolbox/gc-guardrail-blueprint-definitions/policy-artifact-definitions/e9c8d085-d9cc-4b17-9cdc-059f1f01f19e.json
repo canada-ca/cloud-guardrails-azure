@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/e9c8d085-d9cc-4b17-9cdc-059f1f01f19e",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Remote debugging should be turned off for API Apps"
+      },
+      "kind": "policyAssignment"
+    }

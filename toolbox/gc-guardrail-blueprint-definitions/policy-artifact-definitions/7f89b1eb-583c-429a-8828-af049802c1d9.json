@@ -1,0 +1,13 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/7f89b1eb-583c-429a-8828-af049802c1d9",
+        "parameters": {
+            "listOfResourceTypes": {
+                "value": "[parameters('listOfResourceTypesWithDiagnosticLogsEnabled')]"
+            }
+        },
+        "dependsOn": [],
+        "displayName": "Audit diagnostic setting"
+      },
+      "kind": "policyAssignment"
+    }

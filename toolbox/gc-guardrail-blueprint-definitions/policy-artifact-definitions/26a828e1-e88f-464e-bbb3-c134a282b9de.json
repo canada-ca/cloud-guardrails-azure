@@ -1,0 +1,9 @@
+    {
+      "properties": {
+        "policyDefinitionId": "/providers/Microsoft.Authorization/policyDefinitions/26a828e1-e88f-464e-bbb3-c134a282b9de",
+        "parameters": {},
+        "dependsOn": [],
+        "displayName": "Endpoint protection solution should be installed on virtual machine scale sets"
+      },
+      "kind": "policyAssignment"
+    }
