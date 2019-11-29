@@ -17,7 +17,7 @@ $mainBlueprintDefinitionFileName = "main-blueprint-definition.json"
 $policyArtifactsFileName = "policy-artifact-list.json"
 $policyArtifactDefinitionsFolderName = "policy-artifact-definitions"
 $allPoliciesFileName = "all-policies.json"
-$repoUrl = "https://github.com/tacummins1/testtbsrepo/archive/master.zip"
+$repoUrl = "https://github.com/canada-ca/cloud-guardrails-azure/archive/master.zip"
 
 $mainBlueprintDefinitionFilePath = "$policyDefinitionsUnzippedPath\$blueprintDefinitionsPathPrefix\$blueprintDefinitionFolderName\$blueprintEnvironmentFolder\$blueprintTypeFolder\$mainBlueprintDefinitionFileName"
 $policyArtifactListFilePath = "$policyDefinitionsUnzippedPath\$blueprintDefinitionsPathPrefix\$blueprintDefinitionFolderName\$blueprintEnvironmentFolder\$blueprintTypeFolder\$policyArtifactsFileName"
