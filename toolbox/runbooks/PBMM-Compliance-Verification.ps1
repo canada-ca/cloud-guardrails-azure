@@ -28,7 +28,7 @@ $ErrorActionPreference = "Stop"
 
 $tempFilePath = $env:TEMP
 
-$blueprintDefinitionsPathPrefix = "testtbsrepo-master\test"
+$blueprintDefinitionsPathPrefix = "cloud-guardrails-azure-master\toolbox"
 $blueprintDefinitionFolderName = "gc-guardrail-blueprint-definitions"
 $policyDefinitionsZippedPath = "$tempFilePath\PBMMComplianceVerification.zip"
 $policyDefinitionsUnzippedPath = "$tempFilePath\PBMM-Compliance-Verification"
