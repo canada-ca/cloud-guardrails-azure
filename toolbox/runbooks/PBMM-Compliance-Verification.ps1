@@ -33,7 +33,7 @@ $blueprintDefinitionFolderName = "gc-guardrail-blueprint-definitions"
 $policyDefinitionsZippedPath = "$tempFilePath\PBMMComplianceVerification.zip"
 $policyDefinitionsUnzippedPath = "$tempFilePath\PBMM-Compliance-Verification"
 $policyArtifactsFileName = "policy-artifact-list.json"
-$repoUrl = "https://github.com/tacummins1/testtbsrepo/archive/master.zip"
+$repoUrl = "https://github.com/canada-ca/cloud-guardrails-azure/archive/master.zip"
 
 # TODO unhardcode these later to support multiple environment profiles
 

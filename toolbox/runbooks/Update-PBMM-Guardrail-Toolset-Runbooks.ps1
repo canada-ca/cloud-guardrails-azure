@@ -17,7 +17,7 @@ $tempFilePath = $env:TEMP
 $blueprintDefinitionsPathPrefix = "cloud-guardrails-azure-master\toolbox"
 $policyDefinitionsZippedPath = "$tempFilePath\PBMMComplianceVerification.zip"
 $policyDefinitionsUnzippedPath = "$tempFilePath\PBMM-Compliance-Verification"
-$repoUrl = "https://github.com/tacummins1/testtbsrepo/archive/master.zip"
+$repoUrl = "https://github.com/canada-ca/cloud-guardrails-azure/archive/master.zip"
 
 $runbooksFolderName = "runbooks"
 $runbooksFolderPath = "$policyDefinitionsUnzippedPath\$blueprintDefinitionsPathPrefix\$runbooksFolderName"
