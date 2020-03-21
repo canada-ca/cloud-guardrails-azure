@@ -5,6 +5,9 @@ Param
 
     [Parameter (Mandatory= $true)]
     [String] $useRunbookRunAsAccount,
+    
+    [Parameter (Mandatory= $true)]
+    [String] $ResultStorageAccountSubscripion,   
 
     [Parameter (Mandatory= $true)]
     [String] $resultsStorageAccountResourceGroupName,
@@ -665,6 +668,8 @@ $connection = Get-AutomationConnection -Name AzureRunAsConnection
 
 Connect-AzureRmAccount -ServicePrincipal -Tenant $connection.TenantID `
                 -ApplicationID $connection.ApplicationID -CertificateThumbprint $connection.CertificateThumbprint
+
+Set-AzureRMContext -Subscription $ResultStorageAccountSubscripion
 
 $storageAccountKey = (Get-AzureRmStorageAccountKey -ResourceGroupName $resultsStorageAccountResourceGroupName -AccountName $resultsStorageAccountName).value[0]
 
