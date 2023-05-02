@@ -20,7 +20,7 @@ ______________________
 
 # GC Cloud Guardrails Checks for Azure
 
-TBD
+Refer to the [Azure Guardrails Solution Accelerator](https://aka.ms/gcguardrails) for more information.
 
 ## Comment contribuer
 
